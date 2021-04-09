@@ -25,14 +25,14 @@
 
     {% if site.search == true %}
       <div class="search-content">
-        {% include_cached search/search_form.html %}
+        {% raw %}{% include_cached search/search_form.html %}{% endraw %}
       </div>
     {% endif %}
 
     <div id="footer" class="page__footer">
       <footer>
         {% include footer/custom.html %}
-        {% include_cached footer.html %}
+        {% raw %}{% include_cached footer.html %}{% endraw %}
       </footer>
     </div>
 

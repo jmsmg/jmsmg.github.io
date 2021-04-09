@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "공부 필기"
-    url: https://jmsmg.github.io/study/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /study/
+  - title: "About"
+    url: https://jmsmg.github.io/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

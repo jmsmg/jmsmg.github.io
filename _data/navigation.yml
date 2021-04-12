@@ -3,7 +3,7 @@ main:
   - title: "공부 필기"
     url: /study/
   - title: "About"
-    url: https://jmsmg.github.io/about/
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

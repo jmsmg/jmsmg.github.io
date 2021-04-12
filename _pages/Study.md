@@ -1,6 +1,6 @@
 ---
 title: "Study"
 layout: archive
-permalink: /Study/
+permalink: /study/
 author_profile: True
 ---

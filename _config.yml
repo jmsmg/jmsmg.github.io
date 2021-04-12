@@ -93,7 +93,7 @@ analytics:
 
 
 # Site Author
-Seoggon cho:
+author:
   name             : "Seonggon Cho"
   avatar           : https://avatars.githubusercontent.com/u/77792994?v=4
   bio              : "**개발 일기**"
@@ -240,19 +240,21 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /About/
-tag_archive:
-  type: liquid
-  path: //
 
-  category_archive:
-  type: liquid
-  path: /Study/
-tag_archive:
-  type: liquid
-  path: /공부/
+category_list: [ sbout, home, study ]
+#category_archive:
+#  type: liquid
+#  path: /About/
+#  tag_archive:
+#  type: liquid
+#  path: //
+
+#  category_archive:
+#  type: liquid
+#  path: /Study/
+#  tag_archive:
+#  type: liquid
+#  path: /공부/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

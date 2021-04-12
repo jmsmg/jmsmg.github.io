@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: archive
-permalink: /About/
+layout: category
+permalink: /about/
 author_profile: True
 ---

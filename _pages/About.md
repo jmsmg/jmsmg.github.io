@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: category-About
+layout: archive
 permalink: /About/
 author_profile: True
 ---

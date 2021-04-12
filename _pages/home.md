@@ -1,6 +1,6 @@
 ---
 title: "Study"
-layout: category-Study
-permalink: /Study/
+layout: archive
+permalink: /
 author_profile: True
 ---

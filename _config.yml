@@ -93,10 +93,10 @@ analytics:
 
 
 # Site Author
-author:
+Seoggon cho:
   name             : "Seonggon Cho"
   avatar           : https://avatars.githubusercontent.com/u/77792994?v=4
-  bio              : "**개발일기**"
+  bio              : "**개발 일기**"
   location         : "Seoul"
   email            : "jmsmg1@me.com"
   links:
@@ -114,10 +114,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: https://github.com/jmsmg
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: https://www.instagram.com/gon__926
 
 # Site Footer
 footer:
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/jmsmg
+      # url: https://github.com/jmsmg
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/gon__926
+      # url: https://www.instagram.com/gon__926
 
 
 # Reading Files

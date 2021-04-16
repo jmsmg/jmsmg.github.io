@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /About/#page
+    url: /About/
   - title: "Study"
     url: /Study/
   - title: "Database"

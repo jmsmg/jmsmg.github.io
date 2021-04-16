@@ -4,7 +4,7 @@ main:
     url: /About/
   - title: "Study"
     url: /Study/
-  - title: "Sample Posts"
+   - title: "Database"
      url: /Database/
   # - title: "Sample Collections"
   #   url: /collection-archive/

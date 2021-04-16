@@ -4,8 +4,8 @@ main:
     url: /About/
   - title: "Study"
     url: /Study/
-   - title: "Database"
-     url: /Database/
+  - title: "Database"
+    url: /Database/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

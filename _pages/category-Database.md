@@ -1,6 +1,6 @@
 ---
-title: "Study"
+title: "Database"
 layout: archive
-permalink: /
+permalink: /Database/
 author_profile: True
 ---

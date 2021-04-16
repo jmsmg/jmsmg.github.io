@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "공부 필기"
-    url: /study/
   - title: "About"
-    url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+    url: /About/
+  - title: "Study"
+    url: /Study/
+   - title: "Sample Posts"
+     url: /Database/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

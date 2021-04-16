@@ -97,7 +97,7 @@ author:
   name             : "Seonggon Cho"
   avatar           : https://avatars.githubusercontent.com/u/77792994?v=4
   bio              : "**개발 일기**"
-  location         : "Seoul"
+  #location         : "Seoul"
   email            : "jmsmg1@me.com"
   links:
     - label: "Email"
@@ -241,10 +241,10 @@ whitelist:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 
-category_list: [ About, Database, study ]
-#category_archive:
-#  type: liquid
-#  path: /About/
+# category_list: [ About, Database, study ]
+ category_archive:
+  type: liquid
+  path: /categories/
 #  tag_archive:
 #  type: liquid
 #  path: //

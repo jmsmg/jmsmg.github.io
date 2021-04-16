@@ -1,6 +1,7 @@
 ---
 title: "Database"
-layout: archive
+layout: catergory
 permalink: /Database/
 author_profile: True
+taxonomy: Database
 ---

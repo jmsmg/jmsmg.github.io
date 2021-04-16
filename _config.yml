@@ -244,17 +244,17 @@ whitelist:
 #category_list: [ About, Database, study ]
 category_archive:
   type: liquid
-  path: /categories/
-#  tag_archive:
-#  type: liquid
-#  path: //
+  path: /Database/
+tag_archive:
+  type: liquid
+  path: /Data/
 
-#  category_archive:
-#  type: liquid
-#  path: /Study/
-#  tag_archive:
-#  type: liquid
-#  path: /공부/
+  category_archive:
+  type: liquid
+  path: /Study/
+  tag_archive:
+  type: liquid
+  path: /Study/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

@@ -1,6 +1,7 @@
 ---
 title: "Study"
-layout: archive
+layout: catergory
 permalink: /study/
 author_profile: True
+taxonomy: Study
 ---

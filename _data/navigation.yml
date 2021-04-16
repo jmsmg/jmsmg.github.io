@@ -1,12 +1,20 @@
-# main links
 main:
   - title: "About"
-    url: /About/
-  - title: "Study"
-    url: /Study/
-  - title: "Database"
-    url: /Database/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /about/#page #-title
+  - title: "Algorithm"
+    url: /Algorithm/
+  - title: "Statistics"
+    url: /Statistics/
+  - title: "DeepLearning"
+    url: /DeepLearning/
+  - title: "Stock"
+    url: /Stock/
+  - title: "All Posts"
+    url: /categories/
+    
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "Collections"
+#    url: /collection-archive/
+#  - title: "External Link"
+#    url: https://google.com

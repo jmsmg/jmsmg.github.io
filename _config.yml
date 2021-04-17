@@ -254,7 +254,7 @@ tag_archive:
   path: /Study/
   tag_archive:
   type: liquid
-  path: /Study/
+  path: /Java/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

@@ -7,6 +7,6 @@ main:
   - title: "Database"
     url: /categories/database/
   - title: "Categories"
-     url: /categories/
+    url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/

@@ -2,7 +2,7 @@
 layout: post
 title:  "2021.04.16 "
 categories : 
-    - study
+    - Database
 ---
 
 # SQL

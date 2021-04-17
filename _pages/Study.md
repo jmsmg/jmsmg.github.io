@@ -1,7 +1,7 @@
 ---
 title: "Study"
 layout: catergory
-permalink: /study/
+permalink: /categories/study/
 author_profile: True
 taxonomy: Study
 ---

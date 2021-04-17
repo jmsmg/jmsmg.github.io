@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "About"
-    url: /About/
+    url: /about/
   - title: "Study"
-    url: /Study/
+    url: /categories/study/
   - title: "Database"
-    url: /Database/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: /categories/database/
+  - title: "Categories"
+     url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap/

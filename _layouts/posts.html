@@ -7,6 +7,11 @@ layout: archive
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
+  <div style="text-align: center;">
+    <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}" target="_blank">
+      <img src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}.svg" />
+    </a>
+  </div> 
     <li>
       <a href="#{{ year.name }}">
         <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>

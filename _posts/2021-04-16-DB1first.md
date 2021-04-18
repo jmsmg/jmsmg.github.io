@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "2021.04.16 "
 categories : 
     - Database

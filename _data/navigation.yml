@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Study"
-    url: /categories/study/
-  - title: "Database"
-    url: /categories/database/
+  #- title: "Study"
+  #  url: /categories/study/
+  #- title: "Database"
+  #  url: /categories/database/
   - title: "Categories"
     url: /categories/
   # - title: "Sitemap"

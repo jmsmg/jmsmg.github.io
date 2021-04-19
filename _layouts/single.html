@@ -30,13 +30,13 @@ layout: default
           {% include page__meta.html %}
         </header>
       {% endunless %}
-        
+
       <div style="text-align: center;">
-        <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}" target="_blank">
-          <img src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}.svg" />
+        <a href="http://hits.dwyl.com/jmsmg/jmsmggithubio{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}" target="_blank">
+          <img src="http://hits.dwyl.com/jmsmg/jmsmggithubio{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}.svg" />
         </a>
       </div> <!-- 조회수 hit! 사용부분-->
-
+      
       <section class="page__content" itemprop="text">
         {% if page.toc %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">

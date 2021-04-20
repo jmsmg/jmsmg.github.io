@@ -5,4 +5,4 @@ layout: single
 author_profile: True
 ---
 
-어바웃 페이지
+소개페이지

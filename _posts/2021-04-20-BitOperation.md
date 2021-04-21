@@ -1,13 +1,11 @@
 ---
 layout: single
-title:  "유튜브 Algorithm"
+title:  "Algorithm - Bit Operation"
 categories : 
     - Algorithm
 ---
-
-## Algorithm
-
 ### 1. 비트 연산
+---
 * 컴퓨터는 0과 1로 정보를 저장한다.
 
 * int형은 4byte = 32bit(1비트는 1칸)이다

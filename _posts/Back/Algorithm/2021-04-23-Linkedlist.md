@@ -30,3 +30,14 @@ categories :
   
     ※ 편집할때 A - B - C // B가 가진 Node 값을 A와 C에게 물려줌 
 
+---
+
+3. Linked List 구현
+   
+    ~~~java
+    class Node{
+        int datai 
+        Node next = null
+        
+    }
+    ~~~

@@ -14,7 +14,7 @@ categories :
   
     > 0~31번째 칸에서 31번 칸은 양, 음 판단
 
-    ![Algorithm](./../img/algorithm1.png)
+    ![Algorithm](./../../../img/algorithm1.png)
 
  * 연산자  
    OR 연산자 : 0, 1 둘 중 하나라도 1일때 1  
@@ -26,9 +26,9 @@ categories :
    >logical right shift(>>>) 부호도 옮김  
    >arithmetic right shift(>>) 부호는 지킴(복사됨) 1010 -> 1111
 
-## 문제
+### 문제
 
----  
+---
 
 getBit num & ((1 << i)) // 해당 index값을 알아내는 방법  
 

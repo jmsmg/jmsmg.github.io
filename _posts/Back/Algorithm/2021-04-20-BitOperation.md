@@ -30,14 +30,14 @@ categories :
 
 ---
 
-getBit num & ((1 << i)) // 해당 index값을 알아내는 방법  
+- getBit num & ((1 << i)) // 해당 index값을 알아내는 방법  
 
-setBit (num | (1 << i)) // 해당 index값을 1로 만드는 방법
+- setBit (num | (1 << i)) // 해당 index값을 1로 만드는 방법
 
-clearBit (num & ~(1 << i))  // 해당 index값을 0으로 만드는 방법
+- clearBit (num & ~(1 << i))  // 해당 index값을 0으로 만드는 방법
 
-clearLeftBit (num & ((1 << i) - 1)) 해당 index값의 왼쪽을 모두 0으로 만듬
+- clearLeftBit (num & ((1 << i) - 1)) 해당 index값의 왼쪽을 모두 0으로 만듬
 
-clearRightBit (num & (-1 << (i + 1))) 해당 index값의 오른쪽을 모두 0으로 만듬
+- clearRightBit (num & (-1 << (i + 1))) 해당 index값의 오른쪽을 모두 0으로 만듬
 
-updateBit(num & ~(1 << i)) | ((val? 1:0)<< i)
+- updateBit(num & ~(1 << i)) | ((val? 1:0)<< i)

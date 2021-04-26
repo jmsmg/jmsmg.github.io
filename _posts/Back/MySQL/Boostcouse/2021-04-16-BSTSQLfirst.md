@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "2021.04.16 "
+title:  "Boostcouse SQL"
 categories : 
     - Database
 ---

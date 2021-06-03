@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: https://github.com/jmsmg
+      url: https://github.com/jmsmg
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: https://www.instagram.com/gon__926
+      url: https://www.instagram.com/gon__926
 
 
 # Reading Files

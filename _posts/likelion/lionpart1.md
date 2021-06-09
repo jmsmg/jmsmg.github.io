@@ -1,4 +1,8 @@
-
+---
+layout: single
+title:  "멋쟁이 사자처럼 Part1"
+categories : 
+    - Likelion
 ---
 
 ## 파이썬

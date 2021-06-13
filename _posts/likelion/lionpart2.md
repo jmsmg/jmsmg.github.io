@@ -39,3 +39,6 @@ categories :
     - import **matplotlib.pyplot** as **plt**
 
 pd.read_excel
+
+min-max algorithm 최소값 0 최대값 1
+std algorithm 기준 0점 표준편차 1

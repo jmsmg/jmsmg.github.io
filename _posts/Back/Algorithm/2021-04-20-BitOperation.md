@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm - Bit Operation"
+title:  "1. Algorithm - Bit Operation"
 categories : 
     - Algorithm
 ---

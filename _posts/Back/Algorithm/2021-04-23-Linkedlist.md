@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Algorithm - Array and String"
+title:  "3. Algorithm - Array and String"
 categories : 
     - Algorithm
 ---

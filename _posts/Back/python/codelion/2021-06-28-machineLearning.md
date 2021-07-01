@@ -1,3 +1,10 @@
+---
+layout: single
+title: "머신러닝1"
+categories : 
+    - Machine Learning
+---
+
 ## 머신러닝
 ---
 1. 선형회귀

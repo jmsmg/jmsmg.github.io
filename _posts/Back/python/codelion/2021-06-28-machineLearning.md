@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "머신러닝1"
+title: "머신러닝 - 기초"
 categories : 
     - Machine Learning
 ---
@@ -23,24 +23,8 @@ categories :
     - 모델 종류도 결정해야함
 
 ---
-
-1. scikit-learn
-    1. 데이터 셋 불러오기
-    2. Train/Test set으로 데이터 나누기
-    3. 모델 객체 (Model Instance) 생성하기
-        - model = 
-        - sklearn.linear_model.LinearRegression()
-        - sklearn.linear_model.LogisticRegresion()
-        - sklearn.neighbor.KNeighborsClassifier(n_neighbors)
-        - sklearn.cluster.KMean(n_clusters)
-        - sklearn.decomposition.PCA(n_components)
-        - sklearn.svm.SVC(kernel, C, gamma)
-
-    4. 모델학습시키기 (Model fitting)
-        model.fit(train_X, train_Y)
-
-    5. 모델로 새로운 데이터 예측하기 (Predict on test data)
-
+        - Cross validation(교차검증)
+        - 60(Traing):20(Validation):20(Test) or 70(Traning) : 30(Test)
 
 - 회귀분석 vs 분류분석 
 - Cost,Loss,Error,Objective Function(비용함수) 정확도 판단 함수

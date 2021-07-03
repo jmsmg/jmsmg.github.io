@@ -14,8 +14,10 @@ categories :
 3. Random forest
 4. Classification
     - KNN
-    - 
-    - Trees
+        - 최근접 이웃 알고리즘
+        - 피타고라스의 정의로 최근접점 갯수 지정(홀수)
+    - Decision Trees
+        - Define Problem
     - Logistic Regression
         - Binary Classification에 사용
         - sigmoid function을 활용하여 0~1사이 값으로 출력 (ex 더움 추움, 오름 내림)

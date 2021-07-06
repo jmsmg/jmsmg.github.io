@@ -26,7 +26,7 @@ categories :
         - 다른 단어인데 같은 뜻인 경우를 못잡아냄
 
         - 극복 방법
-            - LSA(Latent Semantic Analysis)
+            - LSA(Latent Semantic Analysis) 잠재의미분석
             - Word Embeddings(Word2Vec, Glove)
             - ConceptNet
 

@@ -5,11 +5,11 @@ categories :
     - Machine Learning
 ---
 
-## 머신러닝
+## Machine Learning
 ---
-### 비결정적 소프트웨어
+## 1. Supervised Learning
 
-
+### a) Regression 
 ---
 1. 선형회귀
     - y = ax + b(편향,bias=보정치)
@@ -33,4 +33,13 @@ categories :
 - 회귀분석 vs 분류분석 
 - Cost,Loss,Error,Objective Function(비용함수) 정확도 판단 함수
 - 원인 모델 결과  
-- 
+
+### b) Classification
+
+## 2. UnSupervised Learning
+
+### a) Dimensionality Reduction
+
+### b) Clustering
+
+## 3. Reinforced Learning

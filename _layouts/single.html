@@ -1,5 +1,6 @@
 ---
 layout: default
+comment: true
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -87,3 +88,7 @@ layout: default
     </div>
   {% endif %}
 </div>
+
+{% if page.comments != false %}
+{% include disqus_comments.html %}
+{% endif %}  

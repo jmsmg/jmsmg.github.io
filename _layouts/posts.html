@@ -25,10 +25,11 @@ comment: true
       {% for post in year.items %}
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
-      {% if page.comments != false %}
-        {% include disqus_comments.html %}
-      {% endif %}  
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
+
+{% if page.comments != false %}
+{% include disqus_comments.html %}
+{% endif %}  

@@ -2,6 +2,12 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+// 댓글
+.utterances {
+  max-width: 100% !important;
+}
+// 댓글 끝
+
 #main {
   @include clearfix;
   margin-left: auto;

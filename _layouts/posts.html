@@ -1,6 +1,6 @@
 ---
 layout: archive
-comment: false
+comment: TRUE
 ---
 
 {{ content }}
@@ -31,4 +31,13 @@ comment: false
 {% endfor %}
 
 {% if page.comments != false %}
+<!-- utternanc 댓글-->
+<script src="https://utteranc.es/client.js"
+        repo="jmsmg/jmsmg.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+<!-- utternanc 댓글-->
 {% endif %}  

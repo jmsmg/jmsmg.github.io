@@ -296,8 +296,4 @@ defaults:
 
 # url is the the website domain URL without a trailing slash
 url: "https://jmsmg.github.io"
-
-# 가운데 컨텐츠 부분 확장
-classes: wide
-#
 ---

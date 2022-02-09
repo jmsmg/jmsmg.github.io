@@ -5,4 +5,6 @@ layout: single
 author_profile: True
 ---
 
-### 멋쟁이 사자처럼 AI
+- Memento Mori
+- Carpe Diem
+- Amor Fati

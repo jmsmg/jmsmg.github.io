@@ -1,3 +1,8 @@
 {
-    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe"
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+    "python.linting.flake8Enabled": true,	# default
+    "python.linting.enabled": true,		# default
+    "python.linting.flake8Args": ["--ignore=E501,E302,E305"]	# 예외 항목 추가
 }

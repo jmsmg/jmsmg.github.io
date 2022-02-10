@@ -5,6 +5,7 @@ categories :
     - 일상
 ---
 
+```
 [Jekyll 구조도](http://jekyllrb-ko.github.io/docs/structure/)
 +-- _config.yml
 +-- _data
@@ -27,3 +28,4 @@ categories :
 +-- _site
 +-- .jekyll-metadata
 +-- index.html
+```

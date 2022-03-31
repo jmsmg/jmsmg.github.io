@@ -5,7 +5,8 @@ layout: single
 author_profile: True
 ---
 
-# Project.
+
+## Project.
 
 ### [HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://dacon.io/myprofile/430701/home)
 
@@ -61,7 +62,7 @@ author_profile: True
 
 ---
 
-# Education.
+## Education.
 
 ### 42Seoul La Piscine (2021.10.04~2021.10.29)
 

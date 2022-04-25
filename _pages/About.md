@@ -4,6 +4,13 @@ permalink: /about/
 layout: single
 author_profile: True
 ---
+### Contact.
+- jmsmg1@me.com
+
+# Channel.
+- [Blog](https://jmsmg.github.io)
+- [Github](https://github.com/jmsmg)
+- [Dacon](https://dacon.io/myprofile/430701)
 
 # Skill.
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "2022.06.23 - Django - 1. 장고 모델"
+title:  "2022.06.23 - 1. Django Model"
 categories : 
     - Django
 ---

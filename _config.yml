@@ -20,7 +20,7 @@ title                    : "Gon926"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cho Seonggon"
-description              : "개발 메모"
+description              : "가짜 개발자"
 url                      : "https://jmsmg.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jmsmg/blog-comment" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

@@ -296,4 +296,5 @@ defaults:
 
 # url is the the website domain URL without a trailing slash
 url: "https://jmsmg.github.io"
+future: true # 포스팅 안되는 이슈
 ---

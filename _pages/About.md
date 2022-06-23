@@ -7,12 +7,12 @@ author_profile: True
 ### Contact.
 - jmsmg1@me.com
 
-# Channel.
+## Channel.
 - [Blog](https://jmsmg.github.io)
 - [Github](https://github.com/jmsmg)
 - [Dacon](https://dacon.io/myprofile/430701)
 
-# Skill.
+## Skill.
 
 - Front-End: HTML/CSS
 - Back-End: Python, Django, Tensorflow, Sckit-learn, AWS

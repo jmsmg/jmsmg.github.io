@@ -54,3 +54,7 @@ author_profile: True
 
 - AWS 기술을 기반으로 내결함성, 가용성, 확장성을 갖춘 시스템 설계 역량 증명
 - EC2, Auto Scaling, ELB, VPC, S3, CloudFront, RDS, Aurora, DynamoDB SQS, SNS, CloudWatch 등
+
+### SQLD
+
+- 데이터 자격 검정 SQL 개발자 자격증

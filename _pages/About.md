@@ -21,7 +21,7 @@ author_profile: True
 
 ---
 
-## Education.
+<!-- ## Education.
 
 ### 42Seoul La Piscine (2021.10.04~2021.10.29)
 
@@ -42,7 +42,7 @@ author_profile: True
 
 - Gopax API를 활용하여 AWS(EC2, Cloud9)로 자동 거래 시스템 구현
 
----
+--- -->
 
 ## Certification.
 

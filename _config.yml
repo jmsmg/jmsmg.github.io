@@ -117,7 +117,7 @@ author:
       url: https://github.com/jmsmg
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/gon__926
+      # url: https://www.instagram.com/gon__926
 
 # Site Footer
 footer:

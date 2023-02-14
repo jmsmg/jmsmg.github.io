@@ -15,8 +15,8 @@ author_profile: True
 ## Skill.
 
 - Front-End: HTML/CSS
-- Back-End: Python, Django, Tensorflow, Sckit-learn, AWS
-- Database: SQLite, My SQL
+- Back-End: C, Linux Kernel, Python, Django, Tensorflow, Sckit-learn, AWS
+- Database: SQLite, MySQL
 - Sub: Slack, Notion
 
 ---

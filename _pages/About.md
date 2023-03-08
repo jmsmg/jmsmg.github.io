@@ -15,15 +15,19 @@ author_profile: True
 ## Skill.
 
 - Front-End: HTML/CSS
-- Back-End: C, Linux Kernel, Python, Django, Tensorflow, Sckit-learn, AWS
-- Database: SQLite, MySQL
+- Back-End: C, Python, Django, Tensorflow, Sckit-learn, AWS, Shell
+- Database: SQLite, My SQL
 - Sub: Slack, Notion
 
 ---
 
-<!-- ## Education.
+## Education.
 
-### 42Seoul La Piscine (2021.10.04~2021.10.29)
+### 42Seoul 본과정 (2023.03.13 ~)
+
+---
+
+### 42Seoul La Piscine (2023.01.09 ~ 2023.02.03)
 
 - Linux Shell 기본, C 언어, 알고리즘 등
 
@@ -36,13 +40,6 @@ author_profile: True
 - 2개의 Project, 3개의 Semi-Project 진행
 
 ---
-
-### 멋쟁이 사자처럼 가상자산 자동거래 시스템 만들기 with 고팍스
-(2021.07.06)
-
-- Gopax API를 활용하여 AWS(EC2, Cloud9)로 자동 거래 시스템 구현
-
---- -->
 
 ## Certification.
 
